@@ -1,4 +1,3 @@
-# DownloadForBj-rn
+# test-rn
 testtest
 
-Download bak File to Linux
